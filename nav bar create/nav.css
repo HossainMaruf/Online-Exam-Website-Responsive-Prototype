@@ -1,0 +1,24 @@
+div.custom_dropdown {
+    width: 60%;
+    text-align: justify;
+    border-style: hidden;
+    border-top-style: solid;
+    border-top-color: rgb(47, 100, 163);
+    border-top-width: 2px;
+    border-radius: 0%;
+}
+
+a.custom_item {
+    font-size: 0.8rem;
+    font-weight: 550;
+    color: rgb(79, 78, 78);
+    font-family: Inter sans-serif;
+
+}
+
+nav div {
+    background-color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: 500;
+
+}
